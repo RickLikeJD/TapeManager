@@ -1,2 +1,2 @@
-# TapeSerializer
-A tape serializer for Just Dance 2020 using classes :)
+# TapeManager
+A tape manager for Just Dance 2020(legacy versions) using classes :)
